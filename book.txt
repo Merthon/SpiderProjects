@@ -1,0 +1,405 @@
+rank:1; url:http://product.dangdang.com/29819772.html; name:一本关于你的书 当当专享亲签+好运祝福卡X4 我写了一本关于你的书...; author:; publisher:2025-01-01 江苏凤凰文艺出版社; price:¥42.80
+rank:2; url:http://product.dangdang.com/29794556.html; name:总有人间一两风，填我十万八千梦【当当定制语录贴纸】季羡林; author:季羡林 著，酷威文化 出品; publisher:2024-10-01 江苏凤凰文艺出版社; price:¥38.30
+rank:3; url:http://product.dangdang.com/29812581.html; name:再见神明【当当定制光栅卡】推理鬼才麻耶雄嵩震撼之作！; author:[日]麻耶雄嵩 著，酷威文化 出品; publisher:2024-12-01 北京日报出版社; price:¥38.70
+rank:4; url:http://product.dangdang.com/28995983.html; name:王阳明传; author:孟斜阳 著,酷威文化 出品; publisher:2020-08-01 太白文艺出版社; price:¥19.90
+rank:5; url:http://product.dangdang.com/29816361.html; name:推她一把的是……（梅菲斯特奖得主宫西真冬推理新作！）; author:［日］宫西真冬 著，酷威文化 出品; publisher:2024-12-01 百花文艺出版社; price:¥38.70
+rank:6; url:http://product.dangdang.com/29516908.html; name:经典常谈（附赠名著阅读考点指南）八年级下推荐阅读; author:朱自清 著，酷威文化 出品; publisher:2022-03-01 江苏凤凰文艺出版社; price:¥33.80
+rank:7; url:http://product.dangdang.com/29823920.html; name:阅读是富养自己最好的方式【签名版 赠读书计划】（深度阅读、阅读...; author:筝小钱; publisher:2024-12-01 中国经济出版社; price:¥39.80
+rank:8; url:http://product.dangdang.com/29599516.html; name:志怪图鉴：从神话故事到都市传闻怪物CG设计 黑子归; author:黑子归; publisher:2023-08-01 北京大学出版社; price:¥128.00
+rank:9; url:http://product.dangdang.com/29830990.html; name:爆款销售文案万能公式：4步让销量飙升; author:姜珊; publisher:2025-01-01 人民邮电出版社; price:¥47.20
+rank:10; url:http://product.dangdang.com/29702619.html; name:培养孩子抗挫力的50个游戏; author:[澳]戴西・特恩布尔 著，酷威文化 出品; publisher:2024-03-01 四川文艺出版社; price:¥35.70
+rank:11; url:http://product.dangdang.com/27911444.html; name:高尔基成长三部曲（童年、在人间、我的大学）; author:[苏]高尔基 著，桑卓 译，酷威文化 出品; publisher:2019-08-01 四川文艺出版社; price:¥42.10
+rank:12; url:http://product.dangdang.com/29647742.html; name:水浒传（全3册）中国四大名著 原著无删足回正版 九年级上推荐阅读...; author:[明]施耐庵 [明]罗贯中 著，酷威文化 出品; publisher:2023-11-01 江苏凤凰文艺出版社; price:¥81.60
+rank:13; url:http://product.dangdang.com/29818935.html; name:圈套【当当定制疑点证据卡*2】金匕首奖获奖作品; author:[英]史蒂夫?卡瓦纳 著，酷威文化 出品; publisher:2024-12-01 百花文艺出版社; price:¥33.10
+rank:14; url:http://product.dangdang.com/28990247.html; name:基本演绎法; author:刘洪波, 李媛媛, 刘潋  著,酷威文化 出品; publisher:2020-08-01 四川文艺出版社; price:¥34.20
+rank:15; url:http://product.dangdang.com/29543423.html; name:伊豆的舞女【当当定制纪念车票x2】雪国作者诺贝尔文学奖得主川端...; author:[日]川端康成 著，酷威文化 出品; publisher:2023-03-01 台海出版社; price:¥33.80
+rank:16; url:http://product.dangdang.com/29516910.html; name:傅雷家书 八年级下推荐阅读; author:傅雷 著，酷威文化 出品; publisher:2021-01-01 万卷出版公司; price:¥33.80
+rank:17; url:http://product.dangdang.com/29684194.html; name:社交这门课，只能父母教（当当定制社交小技能思维导图）著名教育...; author:唐雯 著，酷威文化 出品; publisher:2024-02-01 万卷出版公司; price:¥33.80
+rank:18; url:http://product.dangdang.com/29772019.html; name:一本关于我们的书（当当定制心愿卡x5）我写了一本关于我们的书 全...; author:李晔 著，酷威文化 出品; publisher:2024-09-01 江苏凤凰文艺出版社; price:¥34.30
+rank:19; url:http://product.dangdang.com/29781684.html; name:一间只属于自己的房间 女性主义先锋伍尔夫代表作 女性精神独立与...; author:弗吉尼亚・伍尔夫，酷威文化 出品; publisher:2024-09-01 江苏凤凰文艺出版社; price:¥33.80
+rank:20; url:http://product.dangdang.com/27869583.html; name:向上管理：与你的领导相互成就; author:萧雨，酷威文化 出品; publisher:2019-06-01 江苏凤凰文艺出版社; price:¥19.90
+rank:21; url:http://product.dangdang.com/29139019.html; name:逻辑表达力; author:林墨恒 著,酷威文化 出品; publisher:2020-11-01 江苏凤凰文艺出版社; price:¥19.90
+rank:22; url:http://product.dangdang.com/29386768.html; name:小窗幽记（与菜根谭围炉夜话并称处世三大奇书）; author:[明]陈继儒 著，酷威文化 出品; publisher:2022-05-01 万卷出版公司; price:¥33.80
+rank:23; url:http://product.dangdang.com/29712872.html; name:高敏感孩子的内心世界【当当专享高敏感随测卡】; author:[法]克莉司德・布提可南 著，酷威文化 出品; publisher:2024-04-01 万卷出版公司; price:¥33.38
+rank:24; url:http://product.dangdang.com/29749565.html; name:管理的100个基本（口袋里的职场进阶宝典）; author:周路平 著，酷威文化 出品; publisher:2024-07-01 四川文艺出版社; price:¥46.00
+rank:25; url:http://product.dangdang.com/29494058.html; name:从一到无穷大（爱因斯坦亲笔推荐的科普入门书，清华大学校长送给...; author:[美]乔治・伽莫夫 著 ，酷威文化 出品; publisher:2023-01-01 台海出版社; price:¥19.90
+rank:26; url:http://product.dangdang.com/29114596.html; name:汪曾祺的写作课; author:汪曾祺 著,酷威文化 出品; publisher:2020-09-01 江苏凤凰文艺出版社; price:¥25.90
+rank:27; url:http://product.dangdang.com/29625888.html; name:西游记（全3册）中国四大名著 七年级上推荐阅读; author:（明）吴承恩 著，酷威文化 出品; publisher:2023-11-01 江苏凤凰文艺出版社; price:¥81.60
+rank:28; url:http://product.dangdang.com/29394228.html; name:因为整理，人生变轻松了【当当专享收纳Tips折页卡】; author:［韩］郑熙淑 著，酷威文化 出品; publisher:2022-05-01 四川文艺出版社; price:¥42.80
+rank:29; url:http://product.dangdang.com/29614327.html; name:荒原狼（全新译本）诺贝尔文学奖得主黑塞代表作; author:[德]赫尔曼・黑塞 著，酷威文化 出品; publisher:2023-08-01 江苏凤凰文艺出版社; price:¥33.80
+rank:30; url:http://product.dangdang.com/29520164.html; name:雪国【当当定制雪国美景明信片】川端康成50周年纪念版; author:[日]川端康成 著，酷威文化 出品; publisher:2023-03-01 台海出版社; price:¥19.90
+rank:31; url:http://product.dangdang.com/29663601.html; name:财富的底层逻辑; author:周路平  著，酷威文化 出品; publisher:2024-01-01 四川文艺出版社; price:¥9.90
+rank:32; url:http://product.dangdang.com/29675989.html; name:鲁滨逊漂流记 快乐读书吧 （经典全译本）六年级下推荐阅读; author:[英]丹尼尔・笛福  著，酷威文化 出品; publisher:2024-01-01 江苏凤凰文艺出版社; price:¥40.80
+rank:33; url:http://product.dangdang.com/29698559.html; name:北欧神话（茅盾著）; author:茅盾 著，酷威文化 著; publisher:2024-03-01 四川文艺出版社; price:¥38.30
+rank:34; url:http://product.dangdang.com/29807035.html; name:沉思录（全译本无删减 详解详注）梁实秋倾情推荐人生觉醒之书; author:[古罗马]马可・奥勒留 著，酷威文化 出品; publisher:2024-12-01 江苏凤凰文艺出版社; price:¥33.80
+rank:35; url:http://product.dangdang.com/29614957.html; name:心理学的100个基本（口袋里的心理学指南）; author:陈琳 著，酷威文化 出品; publisher:2023-09-01 四川文艺出版社; price:¥42.10
+rank:36; url:http://product.dangdang.com/29824880.html; name:成交是设计出来的 : 成功的交易是一个精心设计的过程; author:张鑫磊  著; publisher:2024-12-01 中国商业出版社; price:¥68.00
+rank:37; url:http://product.dangdang.com/29818233.html; name:向内生长 : 持续一生的修炼和精进; author:陈勇    著; publisher:2024-12-01 当代中国出版社; price:¥78.00
+rank:38; url:http://product.dangdang.com/29824879.html; name:投后破局 : 投后管理与创业重生之道; author:胡华成; publisher:2024-12-01 中国商业出版社; price:¥68.00
+rank:39; url:http://product.dangdang.com/29815453.html; name:从0创办你的公司; author:关天皓     著; publisher:2024-12-01 中国商业出版社; price:¥68.00
+rank:40; url:http://product.dangdang.com/29819953.html; name:并购与重组 : 理念、策略、流程、实战一本通; author:胡华成, 刘泰玲; publisher:2024-12-01 中国商业出版社; price:¥68.00
+rank:41; url:http://product.dangdang.com/29827931.html; name:给孩子“顶撞”的勇气 （著名教育专家刘称莲倾情作序！）; author:悦兰; publisher:2025-01-01 清华大学出版社; price:¥47.20
+rank:42; url:http://product.dangdang.com/29813521.html; name:少年游学 共5册 人一生一定要看的博物馆！精心汇集了上海博物馆、...; author:陈晨 主编; publisher:2024-08-01 北京联合出版有限公司; price:¥59.00
+rank:43; url:http://product.dangdang.com/29810045.html; name:爱的哲学：探寻人类情感的迷思与真相（陈嘉映、刘擎、许知远极力...; author:(德) 理查德・大卫・普莱希特 著，赵昭 译，磨铁文化 出品; publisher:2024-12-01 民主与建设出版社; price:¥41.70
+rank:44; url:http://product.dangdang.com/29810040.html; name:简单的人生逻辑课（畅销全球20年《简单的逻辑学》作者全新力作）; author:; publisher:2024-12-01 浙江人民出版社; price:¥35.80
+rank:45; url:http://product.dangdang.com/29825419.html; name:第四次浪潮：人工智能时代的国家、公司与个人（大前研一新作，吴...; author:[日]大前研一; publisher:2025-02-01 浙江教育出版社; price:¥58.00
+rank:46; url:http://product.dangdang.com/29790820.html; name:超越百岁的营养计划（身体缺的不是药，是营养！医学博士、营养学...; author:大久保研之，深津章子 著  快读慢活  出品; publisher:2024-09-01 中国纺织出版社; price:¥88.00
+rank:47; url:http://product.dangdang.com/29833743.html; name:金句365：随手一翻有启发，偶尔一看来灵感！; author:李海峰 覃杰 韦韦 主编; publisher:2025-01-01 台海出版社; price:¥53.50
+rank:48; url:http://product.dangdang.com/29835999.html; name:无限可能 不仅有实用的创业指导，更有关于人生价值的探讨，让我们...; author:李海峰，潘�G; publisher:2025-01-01 广东经济出版社有限公司; price:¥52.10
+rank:49; url:http://product.dangdang.com/29824621.html; name:三餐四季，便是人间好时节（史铁生、季羡林、汪曾祺等倾力之作，...; author:; publisher:2024-12-01 民主与建设出版社; price:¥12.00
+rank:50; url:http://product.dangdang.com/29824620.html; name:史铁生:路过人间:是遇见，是心有所念（中国文坛名家献给你我的岁...; author:; publisher:2024-12-01 民主与建设出版社; price:¥12.00
+rank:51; url:http://product.dangdang.com/29824633.html; name:苏格拉底的申辩（读一读“苏格拉底”，远离世间的套路与陷阱；读...; author:(古希腊)柏拉图著、高延煜译; publisher:2024-11-01 民主与建设出版社; price:¥12.45
+rank:52; url:http://product.dangdang.com/29646617.html; name:意境治愈：线描装饰插画创作与技法 治愈型绘画，零基础创作：历时...; author:杨丽静 编著; publisher:2024-01-01 北京大学出版社; price:¥69.00
+rank:53; url:http://product.dangdang.com/29804511.html; name:精益5S管理：现场管理与实践; author:时佰彪 编著; publisher:2024-11-01 北京大学出版社; price:¥69.00
+rank:54; url:http://product.dangdang.com/29802151.html; name:AI绘画魔法学堂：Q版萌系商业插画教程; author:陈业鹏 编著; publisher:2024-12-01 北京大学出版社; price:¥79.00
+rank:55; url:http://product.dangdang.com/29795680.html; name:普通话训练教程; author:曲振巍 著; publisher:2024-11-01 北京大学出版社; price:¥52.00
+rank:56; url:http://product.dangdang.com/29759850.html; name:AutoCAD 2024辅助设计从入门到精通; author:周站长 编著; publisher:2024-08-20 北京大学出版社; price:¥79.00
+rank:57; url:http://product.dangdang.com/29795683.html; name:ChatGPT 4 应用详解：AI文案＋AI绘画＋AI视频＋GPTs; author:木白 编著; publisher:2024-11-01 北京大学出版社; price:¥79.00
+rank:58; url:http://product.dangdang.com/29769299.html; name:Procreate Dreams动画设计与制作完全解析; author:安亚类 著; publisher:2024-09-01 北京大学出版社; price:¥79.00
+rank:59; url:http://product.dangdang.com/29518804.html; name:中老年零基础学剪映：短视频拍摄+剪辑+特效+发布（教学视频+大字...; author:木白; publisher:2023-03-01 北京大学出版社; price:¥59.20
+rank:60; url:http://product.dangdang.com/29804607.html; name:零基础水墨风插画设计与绘制技法教程; author:卢佳瑶 编著; publisher:2024-12-01 北京大学出版社; price:¥63.60
+rank:61; url:http://product.dangdang.com/29801294.html; name:iPad+Procreate时装画绘制与表现从入门到精通; author:温馨 著; publisher:2024-11-01 北京大学出版社; price:¥79.00
+rank:62; url:http://product.dangdang.com/29791011.html; name:Cinema 4D电商设计从入门到精通 黄子华; author:黄子华 编著; publisher:2024-11-01 北京大学出版社; price:¥89.00
+rank:63; url:http://product.dangdang.com/29646612.html; name:植物名字的故事; author:刘夙 著; publisher:2024-01-01 北京大学出版社; price:¥89.00
+rank:64; url:http://product.dangdang.com/29789731.html; name:节奏感：爆款短视频制作核心技能; author:木白 编著; publisher:2024-10-01 北京大学出版社; price:¥59.20
+rank:65; url:http://product.dangdang.com/29766280.html; name:中文版Photoshop 2024+AI修图入门教程; author:委婉的鱼 编著; publisher:2024-08-31 北京大学出版社; price:¥59.20
+rank:66; url:http://product.dangdang.com/29802145.html; name:Blender 2D动画制作从入门到精通; author:李君豪 编著; publisher:2024-11-01 北京大学出版社; price:¥59.20
+rank:67; url:http://product.dangdang.com/29802150.html; name:Plog&Vlog图片与短视频配色调色手册; author:杨龙稳 著; publisher:2024-11-01 北京大学出版社; price:¥99.00
+rank:68; url:http://product.dangdang.com/29538158.html; name:中老年零基础学智能手机：手机操作 + 微信应用+网上购物 + 娱乐与...; author:王丽英; publisher:2022-04-01 北京大学出版社; price:¥69.00
+rank:69; url:http://product.dangdang.com/29814125.html; name:文学的深意; author:谢有顺; publisher:2024-11-01 人民文学出版社; price:¥69.00
+rank:70; url:http://product.dangdang.com/29793310.html; name:九头鸟传奇; author:黄向辉; publisher:2024-10-10 文汇出版社; price:¥77.70
+rank:71; url:http://product.dangdang.com/29833754.html; name:人生得遇苏东坡（限量刷边+印签版。3500万人都在听意公子讲苏东坡...; author:意公子，果麦文化 出品; publisher:2025-01-01 太白文艺出版社; price:¥49.00
+rank:72; url:http://product.dangdang.com/29721451.html; name:故事演讲力：商业演讲中的故事策略 双色重点提示  演讲力提升宝典...; author:赵金星 著; publisher:2024-06-20 北京大学出版社; price:¥79.00
+rank:73; url:http://product.dangdang.com/29815840.html; name:不生气的100种方法（快速清除焦虑紧张压力疲劳内耗 重启内心的力...; author:[美]亚当斯研究所; publisher:2025-01-01 北方文艺出版社; price:¥49.90
+rank:74; url:http://product.dangdang.com/29818550.html; name:苍茫之下：血斑斓 【当当网亲签版+随机票夹】悬疑推理类畅销书作...; author:钟宇; publisher:2024-12-01 花城出版社; price:¥39.00
+rank:75; url:http://product.dangdang.com/11824517868.html; name:狼道漫画少年冒险之旅狼之道全4册 当当自营抖音同款培养孩子的狼...; author:寇乾坤; publisher:2024-08-01 新蕾出版社; price:¥39.80
+rank:76; url:http://product.dangdang.com/11872050138.html; name:高手接话当当自营抖音同款保证正版回话妙招显技巧 真诚话语得人心...; author:小奖励; publisher: 群言出版社; price:¥19.80
+rank:77; url:http://product.dangdang.com/11883708988.html; name:读者点醒卷一句话点醒孩子学习人生全2册 当当自营抖音同款小句子...; author:伍晓峰; publisher:2024-11-01 读者出版社; price:¥49.80
+rank:78; url:http://product.dangdang.com/27878108.html; name:额尔古纳河右岸（茅盾文学奖获奖作品全集28）; author:迟子建; publisher:2019-06-01 人民文学出版社; price:¥30.80
+rank:79; url:http://product.dangdang.com/29808132.html; name:不被大风吹倒 莫言新书！卷也好、躺也好，不被大风吹倒就好！读客...; author:莫言;读客文化 出品; publisher:2024-11-01 北京日报出版社; price:¥39.80
+rank:80; url:http://product.dangdang.com/29702352.html; name:名著骆驼祥子; author:廉东星; publisher:2018-01-02 世界图书出版公司; price:¥10.80
+rank:81; url:http://product.dangdang.com/29671906.html; name:跟着诗词去旅行 少年游学地理百科; author:日知图书 编著; publisher:2024-02-01 北方妇女儿童出版社; price:¥9.90
+rank:82; url:http://product.dangdang.com/29311943.html; name:活着（余华代表作，精装，易烊千玺推荐阅读）; author:余华  著 ，新经典  出品; publisher:2021-10-01 北京十月文艺出版社; price:¥31.00
+rank:83; url:http://product.dangdang.com/29578971.html; name:国之脊梁――中国院士的科学人生百年; author:中国科学院学部“科学人生・百年”项目组; publisher:2022-12-01 浙江少年儿童出版社; price:¥39.00
+rank:84; url:http://product.dangdang.com/29827430.html; name:你杀了谁（时隔25年，东野圭吾重启本格推理，加贺系列新作！赠流...; author:东野圭吾; publisher:2025-01-01 南海出版公司; price:¥59.00
+rank:85; url:http://product.dangdang.com/11884340988.html; name:慢驴效应漫画版当当自营抖音同款帮孩子不努力给他讲慢驴的故事助...; author:李博; publisher:2024-12-01 中国书籍出版社; price:¥19.50
+rank:86; url:http://product.dangdang.com/29816370.html; name:边界感：人和人之间最舒服的距离; author:肖卫; publisher:2024-11-01 人民邮电出版社; price:¥38.70
+rank:87; url:http://product.dangdang.com/29437347.html; name:【印签版】一句顶一万句（刘震云作品，一本让“中国脱口秀扛把子...; author:刘震云，长江新世纪 出品; publisher:2022-08-01 花城出版社; price:¥61.20
+rank:88; url:http://product.dangdang.com/29702362.html; name:名著安徒生童话; author:廉东星; publisher:2018-11-04 世界图书出版公司; price:¥10.80
+rank:89; url:http://product.dangdang.com/21055821.html; name:我与地坛（纪念版）（2024年百班千人寒假书单 九年级推荐阅读）; author:史铁生; publisher:2011-06-01 人民文学出版社; price:¥16.00
+rank:90; url:http://product.dangdang.com/29782108.html; name:女人的胜利 余华现实主义代表作 余华写出轨！太真实太犀利了！荒...; author:余华;读客文化 出品; publisher:2024-10-01 江苏凤凰文艺出版社; price:¥35.80
+rank:91; url:http://product.dangdang.com/29702354.html; name:名著钢铁是怎样炼成的; author:廉东星; publisher:2018-09-05 世界图书出版公司; price:¥10.80
+rank:92; url:http://product.dangdang.com/29826561.html; name:预测之书（49位英雄豪杰为你剧透 来自未来的好消息 罗振宇“时间...; author:罗振宇 编著 得到图书出品; publisher:2025-01-01 新星出版社; price:¥79.00
+rank:93; url:http://product.dangdang.com/29821444.html; name:小古文串起中国史（漫画趣读版）(1-3共3册）中国史 文言文 国学; author:艾明秋; publisher:2024-12-01 二十一世纪出版社; price:¥101.50
+rank:94; url:http://product.dangdang.com/29824462.html; name:罪恶天桥; author:白艾昕; publisher:2025-01-01 作家出版社; price:¥58.50
+rank:95; url:http://product.dangdang.com/26186058.html; name:悉达多（心动的信号7彭高翁青雅同款，翻译家姜乙译本）【果麦经典...; author:[德]赫尔曼・黑塞，译者：姜乙，果麦文化 出品; publisher:2017-01-01 天津人民出版社; price:¥26.90
+rank:96; url:http://product.dangdang.com/11883640268.html; name:反逃避心理学当当自营抖音同款正版反内耗心理学不畏惧不逃避 直面...; author:徐小雨著; publisher:2024-07-01 古吴轩出版社; price:¥29.80
+rank:97; url:http://product.dangdang.com/29815843.html; name:讲了很久很久的中国龙（新品精装，7-14岁关于中国龙的百科全书，...; author:高瑞沣; publisher:2024-11-01 四川教育出版社; price:¥39.80
+rank:98; url:http://product.dangdang.com/29732460.html; name:如果历史是一群喵1-14（套装共14册）; author:肥志编绘，漫友文化出品; publisher:2024-06-01 广东旅游出版社; price:¥384.00
+rank:99; url:http://product.dangdang.com/29453299.html; name:保重（大冰小蓝书系列收官之作！就此别过，诸君保重。）; author:大冰  著，磨铁文化 出品; publisher:2022-09-01 北京联合出版有限公司; price:¥29.80
+rank:100; url:http://product.dangdang.com/29809671.html; name:大宋籍田歌; author:张生全; publisher:2024-10-01 四川文艺出版社; price:¥55.90
+rank:101; url:http://product.dangdang.com/29807054.html; name:我们的爱，方文山、刘�u宏推荐的飞儿乐队吉他手阿沁传记，（精装...; author:许晋杭 著  大咖书房 出品; publisher:2024-10-18 文化发展出版社; price:¥75.80
+rank:102; url:http://product.dangdang.com/11884263158.html; name:慢驴效应 助孩子内心强大克服恐惧 孩子不努力给他讲慢驴的故事; author:李博; publisher:2024-12-01 中国书籍出版社; price:¥19.50
+rank:103; url:http://product.dangdang.com/29732458.html; name:如果历史是一群喵14・明末清初篇; author:肥志编绘，漫友文化出品; publisher:2024-06-01 广东旅游出版社; price:¥26.20
+rank:104; url:http://product.dangdang.com/29755264.html; name:我胆小如鼠 新版上市 余华特别增订5千字成长经验访谈 我曾是敏感...; author:余华;读客文化 出品; publisher:2024-05-30 江苏凤凰文艺出版社; price:¥35.80
+rank:105; url:http://product.dangdang.com/29816950.html; name:人的消逝：从原子弹、互联网到人工智能【独家随机赠送熊培云手写...; author:熊培云; publisher:2024-12-01 浙江人民出版社; price:¥52.80
+rank:106; url:http://product.dangdang.com/29826580.html; name:怎样讲好一个故事（创意写作书系）; author:美国飞蛾故事会; publisher:2025-01-15 中国人民大学出版社; price:¥39.50
+rank:107; url:http://product.dangdang.com/29781992.html; name:强者破局：资治通鉴成事之道（《资治通鉴》管理智慧*冯唐成事学，...; author:冯唐; publisher:2024-09-12 民主与建设出版社; price:¥49.90
+rank:108; url:http://product.dangdang.com/29702351.html; name:名著简爱; author:廉东星; publisher:2018-01-04 世界图书出版公司; price:¥10.80
+rank:109; url:http://product.dangdang.com/29827122.html; name:星河滚烫，你是人间理想（畅销书作家弘丹、闫晓雨、李菁联袂倾情...; author:然雪婵; publisher:2025-01-01 新世界出版社; price:¥42.10
+rank:110; url:http://product.dangdang.com/29699089.html; name:中国历代政治得失（赠三万余字导读手册，当当加赠超大张思维导图...; author:钱穆 著,博集天卷 出品; publisher:2024-03-22 岳麓书社; price:¥35.90
+rank:111; url:http://product.dangdang.com/1169797292.html; name:【新华正版包邮】一句顶一万句 刘震云作品 2022新版 一日三秋一地...; author:刘震云; publisher:2022-07-01 花城出版社; price:¥34.00
+rank:112; url:http://product.dangdang.com/29471221.html; name:南昌路上（读通上海，从马路开始。从南昌路出发，探寻上海历史，...; author:黄向辉; publisher:2022-09-01 上海远东出版社; price:¥65.30
+rank:113; url:http://product.dangdang.com/29801574.html; name:秦汉史讲义; author:秦晖 著,汉唐阳光 出品; publisher:2024-11-01 山西人民出版社发行部; price:¥132.50
+rank:114; url:http://product.dangdang.com/29520300.html; name:分类速记英语单词4000个（口袋本）; author:商务国际辞书编辑部; publisher:2023-02-01 商务印书馆国际有限公司; price:¥7.60
+rank:115; url:http://product.dangdang.com/29824647.html; name:昨非录（“庚子五大臣”之一袁昶日记新说）; author:陆春祥; publisher:2025-01-01 广西师范大学出版社; price:¥63.40
+rank:116; url:http://product.dangdang.com/28518072.html; name:被讨厌的勇气; author:岸��一郎, 古�R史健; publisher:2020-03-05 机械工业出版社; price:¥29.80
+rank:117; url:http://product.dangdang.com/11890021578.html; name:想赢就要敢上场 樊登 江南春 鲁豫 张雪峰 陈震诚挚推荐 周鸿�t写...; author:周鸿�t; publisher:2024-12-01 北京联合出版有限公司; price:¥39.80
+rank:118; url:http://product.dangdang.com/29501415.html; name:散文中的心事; author:谢有顺; publisher:2022-12-01 海峡文艺出版社; price:¥68.00
+rank:119; url:http://product.dangdang.com/29281158.html; name:置身事内：中国政府与经济发展（文津图书奖、新京报年度通识写作...; author:兰小欢 著; publisher:2021-08-01 上海人民出版社; price:¥58.50
+rank:120; url:http://product.dangdang.com/29607709.html; name:人生海海（麦家经典代表作。发行超350万册，创文学新奇迹。人生海...; author:麦家  著 ， 新经典   出品; publisher:2023-08-01 北京十月文艺出版社; price:¥69.00
+rank:121; url:http://product.dangdang.com/11868145048.html; name:活得明白郭德纲活的明白2024全新著作 正版现货聊的是人情看的是人...; author:郭德纲; publisher:2024-10-01 天地出版社; price:¥39.90
+rank:122; url:http://product.dangdang.com/1829155050.html; name:悉达多 诺贝尔文学奖得主赫尔曼黑塞代表作 德文直译西方大学生人...; author:［德］赫尔曼・黑塞 赵丽慧译...; publisher:2020-12-01 民主与建设; price:¥10.80
+rank:123; url:http://product.dangdang.com/11897982419.html; name:预测之书 来自未来的好消息 罗振宇等著得到2025 时间的朋友跨年演...; author:罗振宇; publisher:2024-12-01 新星出版社; price:¥79.00
+rank:124; url:http://product.dangdang.com/29817904.html; name:托玛和艾玛绘本系列（精装2册，绘本妈妈海桐力荐！赠送3张精美海...; author:[日] 大庭贤哉/著绘， 丁虹/译; publisher:2025-01-01 花山文艺出版社; price:¥119.60
+rank:125; url:http://product.dangdang.com/29827067.html; name:纳尼亚传奇大全集：全7册（7-14岁儿童文学奇幻经典！6位国际插画...; author:[英]C.S. 刘易斯 著，作家榜经典名著出品，熊亭玉 译; publisher:2024-11-01 浙江文艺出版社; price:¥599.00
+rank:126; url:http://product.dangdang.com/29815863.html; name:窗外（琼瑶）一代纯情小说巨匠琼瑶经典之作，六十年纪念版; author:琼瑶; publisher:2024-10-01 作家出版社; price:¥42.00
+rank:127; url:http://product.dangdang.com/11879520348.html; name:漫画中华文化1000问当当自营抖音同款正版保证中国文学常识一本通...; author:中国大陆; publisher: 三环出版社; price:¥25.80
+rank:128; url:http://product.dangdang.com/29826612.html; name:只此青绿・艺术设定集（张翰+孟庆�D亲笔签名明信片版）（记录现象...; author:景小勇 主编; publisher:2025-01-10 天天出版社有限责任公司; price:¥88.00
+rank:129; url:http://product.dangdang.com/29801648.html; name:舍价取势   一本专为散户而写的书 总结散户在期货交易中如何取得...; author:三半居士; publisher:2024-10-01 广东经济出版社有限公司; price:¥65.00
+rank:130; url:http://product.dangdang.com/1319994332.html; name:【2024年诺贝尔经济学奖】国家为什么会失败 一部包含历史政治经济...; author:(美)德隆・阿西莫格鲁(Daron Acemoglu),(美)詹姆斯・A.罗宾逊; publisher:2015-05-01 湖南科学技术出版社; price:¥49.00
+rank:131; url:http://product.dangdang.com/29822747.html; name:大学问・中国的现代化：1850年以来的历史轨迹（《现代中国的形成...; author:李怀印，大学问出品; publisher:2025-01-01 广西师范大学出版社; price:¥85.40
+rank:132; url:http://product.dangdang.com/29803473.html; name:活得明白  郭德纲2024全新著作  聊的是人情 看的是人间 谈的是人...; author:郭德纲; publisher:2024-10-01 天地出版社; price:¥39.80
+rank:133; url:http://product.dangdang.com/29119834.html; name:认知觉醒：开启自我改变的原动力; author:周岭; publisher:2020-09-01 人民邮电出版社; price:¥59.80
+rank:134; url:http://product.dangdang.com/11896467798.html; name:基层管理秘籍 当当自营抖音同款全面揭开领导力的秘密助你打造卓越...; author:张晨; publisher:2024-12-01 中华工商联合出版社; price:¥19.80
+rank:135; url:http://product.dangdang.com/29828045.html; name:世界末日前的谋杀 23岁斩获推理界至高荣誉，乱步奖获奖作震撼引进...; author:[日]荒木茜;读客文化 出品; publisher:2024-12-20 北京日报出版社; price:¥29.90
+rank:136; url:http://product.dangdang.com/28992419.html; name:蛤蟆先生去看心理医生（热销300万册！英国经典心理咨询入门书，知...; author:罗伯特・戴博德，果麦文化 出品; publisher:2020-07-01 天津人民出版社; price:¥22.80
+rank:137; url:http://product.dangdang.com/29767817.html; name:大中华寻宝系列31 吉林寻宝记; author:京鼎动漫; publisher:2024-08-01 二十一世纪出版社; price:¥26.00
+rank:138; url:http://product.dangdang.com/29817891.html; name:帝国之翼:胡林翼的官场与战场; author:张彦明; publisher:2025-01-01 岳麓书社; price:¥74.90
+rank:139; url:http://product.dangdang.com/29731702.html; name:火柴人图解大全：超有梗超简单超灵活的视觉沟通方法，适用零基础...; author:（日）蜜柑乃; publisher:2024-05-28 北方文艺出版社; price:¥49.90
+rank:140; url:http://product.dangdang.com/29776427.html; name:从心出发：将人置于增长战略的核心（全球企业执行官30年管理精髓...; author:[法]安德烈・拉克鲁瓦  著   王健卿  译; publisher:2024-09-01 上海远东出版社; price:¥94.10
+rank:141; url:http://product.dangdang.com/23394853.html; name:人生没什么不可放下：弘一法师的人生智慧（弘一法师彻悟一生的人...; author:宋默 著，文通天下 出品; publisher:2014-01-01 团结出版社; price:¥7.50
+rank:142; url:http://product.dangdang.com/29665289.html; name:降维沟通（专享版）：成为社牛的说话之道; author:何圣君 著，文通天下 出品; publisher:2023-06-01 文化发展出版社; price:¥29.90
+rank:143; url:http://product.dangdang.com/23911671.html; name:小说中的心事; author:谢有顺; publisher:2016-02-22 作家出版社; price:¥28.00
+rank:144; url:http://product.dangdang.com/11899979548.html; name:成长的觉醒樊登2024年全新力作当当自营抖音同款复制樊登博士亲身...; author:樊登著; publisher:2024-10-01 深圳报业集团出版社; price:¥38.00
+rank:145; url:http://product.dangdang.com/29812284.html; name:三星堆：失落的古蜀文明; author:屈小强; publisher:2024-11-30 北京理工大学出版社; price:¥39.80
+rank:146; url:http://product.dangdang.com/29790951.html; name:换牙书（新版）; author:伊沃娜・奥特西芬; publisher:2024-09-04 北京科学技术出版社; price:¥84.90
+rank:147; url:http://product.dangdang.com/11860866618.html; name:自律改变命运当当自营抖音同款保证正版自我管理青春时间自律心理...; author:郝文龙; publisher:2024-07-01 山东科学技术出版社; price:¥9.80
+rank:148; url:http://product.dangdang.com/29807496.html; name:好好提问（会提问就是会说话。社交是“双向奔赴”，你会问，TA才...; author:[日]渡濑谦; publisher:2024-11-01 民主与建设出版社; price:¥28.00
+rank:149; url:http://product.dangdang.com/29689252.html; name:十八岁出门远行（严重精神内耗，一定要读十八岁！余华成名作！看...; author:余华；读客文化 出品; publisher:2024-03-01 江苏凤凰文艺出版社; price:¥24.80
+rank:150; url:http://product.dangdang.com/11734205929.html; name:黄帝内经漫画版 漫画讲透黄帝内经 讲透二十四节气养生智慧十二时...; author:张嘉铭，王婧; publisher:2024-02-14 化学工业出版社; price:¥39.90
+rank:151; url:http://product.dangdang.com/11756759164.html; name:店长贺卡 联系客服下单  单独下单不发货; author:店长贺卡; publisher: 店长贺卡; price:¥1.00
+rank:152; url:http://product.dangdang.com/29702363.html; name:名著老人与海; author:廉东星; publisher:2018-01-07 世界图书出版公司; price:¥10.80
+rank:153; url:http://product.dangdang.com/25211578.html; name:苏东坡传（林语堂纪念典藏精装版）; author:林语堂 著,博集天卷 出品; publisher:2018-01-01 湖南文艺出版社; price:¥49.90
+rank:154; url:http://product.dangdang.com/28988181.html; name:博弈论（精装版）：11位诺贝尔奖得主推荐！收益一生的思维方式与...; author:（美）约翰・冯・诺依曼; publisher:2020-07-13 沈阳出版社; price:¥29.90
+rank:155; url:http://product.dangdang.com/29352674.html; name:快乐读书吧二年级下 神笔马良 2年级下册阅读课外书 小学生童话故...; author:国际文化出版公司; publisher:2022-01-01 国际文化出版公司; price:¥6.70
+rank:156; url:http://product.dangdang.com/25230589.html; name:读读童谣和儿歌（共四册）一年级下册 语文教科书配套书目 人教版...; author:曹文轩 陈先云 主编; publisher:2018-01-01 人民教育出版社; price:¥33.80
+rank:157; url:http://product.dangdang.com/26916249.html; name:中国古代寓言 三年级下册 语文教科书配套书目 人教版快乐读书吧; author:曹文轩、陈先云 主编; publisher:2019-01-01 人民教育出版社; price:¥21.30
+rank:158; url:http://product.dangdang.com/22518499.html; name:一个村庄里的中国:熊培云沉潜十年心血大作，从中国村庄读懂中国社...; author:熊培云; publisher:2011-11-01 新星出版社; price:¥43.20
+rank:159; url:http://product.dangdang.com/25577734.html; name:快乐读书吧六年级下册 鲁滨逊漂流记 汤姆索亚历险记 尼尔斯骑鹅旅...; author:马克 吐温，笛福，塞尔玛 拉格洛夫，卡罗尔，; publisher:2018-11-01 时代文艺出版社; price:¥43.50
+rank:160; url:http://product.dangdang.com/29576877.html; name:莫斯科智力游戏359道数学趣味题：丘成桐中学数学奖+美国数学协会...; author:柯尔捷姆斯基（俄罗斯）; publisher:2023-05-23 北方文艺出版社; price:¥67.30
+rank:161; url:http://product.dangdang.com/11890672568.html; name:经方合方辩治疑难杂病 疑难杂症正版书籍中医传统智慧结合现代医学...; author:王付; publisher:2022-12-01 河南科学技术出版社; price:¥23.50
+rank:162; url:http://product.dangdang.com/29797297.html; name:陶渊明; author:廖仲安; publisher:2024-10-22 大连出版社; price:¥42.80
+rank:163; url:http://product.dangdang.com/29817164.html; name:《酱油――独有的中国味道》; author:李昕升; publisher:2024-11-27 江西科学技术出版社; price:¥70.90
+rank:164; url:http://product.dangdang.com/11894920999.html; name:孩子你要懂点人情世故 漫画版正版孩子，你要懂点人情世故儿童版书...; author:李涵; publisher:2024-12-01 云南科技出版社; price:¥19.90
+rank:165; url:http://product.dangdang.com/29824032.html; name:父母觉醒：发现孩子的内在力量; author:常晓敏; publisher:2025-01-01 电子工业出版社; price:¥65.30
+rank:166; url:http://product.dangdang.com/11881960278.html; name:读者科学少年全3册 当当自营抖音同款ABC9岁~18岁适读5大科普栏目...; author:读者杂志社编; publisher:2024-11-01 读者出版社; price:¥59.80
+rank:167; url:http://product.dangdang.com/1384561731.html; name:国家为什么会失败   2024诺贝尔经济学奖得主作品 德隆阿西莫格鲁; author:(美)德隆・阿西莫格鲁//詹姆斯・A.罗宾逊|译者:李增刚; publisher:2015-05-01 湖南科技; price:¥49.00
+rank:168; url:http://product.dangdang.com/29825735.html; name:老漂一族带娃记; author:周齐林; publisher:2025-01-01 深圳出版社有限责任公司; price:¥39.60
+rank:169; url:http://product.dangdang.com/673393319.html; name:【2024年诺贝尔文学奖得主】素食者 韩江书籍 阅读书籍 请照顾我妈...; author:(韩)韩江; publisher:2021-09-01 四川文艺出版社; price:¥36.40
+rank:170; url:http://product.dangdang.com/22790527.html; name:中国国家地理精华 图说天下 国家地理; author:<图说天下.国家地理系列>编委会; publisher:2012-06-01 北京联合出版公司; price:¥15.10
+rank:171; url:http://product.dangdang.com/29561757.html; name:历史不忍细看历史档案推理还原真相再现现场中国通史近代史中华野...; author:漓玉; publisher:2013-05-01 中国华侨出版社; price:¥17.10
+rank:172; url:http://product.dangdang.com/11872748348.html; name:天机 陈旭著正版书籍九十九句处事箴言当当自营抖音同款保证正版现...; author:陈旭; publisher:2024-08-01 台海出版社; price:¥39.80
+rank:173; url:http://product.dangdang.com/20465714.html; name:塔木德; author:（美）塔尔莱特・赫里姆　著，邹文豪　编译 知书达礼 出品; publisher:2009-02-01 中国画报出版社; price:¥13.94
+rank:174; url:http://product.dangdang.com/29824746.html; name:大明生死线（限量版亲笔签名）看懂北纬42度线，就能看清大明王朝...; author:温骏轩 著，磨铁文化 出品; publisher:2024-12-01 浙江人民出版社; price:¥53.90
+rank:175; url:http://product.dangdang.com/11569308867.html; name:经典常谈 含阅读专项训练手册 朱自清写给青少年的十三堂国学启蒙...; author:朱自清; publisher:2019-01-01 江苏凤凰科学技术出版社; price:¥6.78
+rank:176; url:http://product.dangdang.com/11828701413.html; name:中国社会各阶层分析 梁晓声原版 2021年精装新版增订版 茅盾文学奖...; author:梁晓声著大咖书房出品; publisher:2021-04-01 人民日报出版社; price:¥26.10
+rank:177; url:http://product.dangdang.com/11883639028.html; name:天才的学习方法  让天才的学习方法变成你的学习方法 好方法带来好...; author:; publisher:2024-01-01 浙江教育出版社; price:¥46.80
+rank:178; url:http://product.dangdang.com/29504472.html; name:经典常谈 朱自清著八年级下册语文教材名著导读推荐阅读书目 适合...; author:朱自清; publisher:2023-01-01 南方出版社; price:¥20.10
+rank:179; url:http://product.dangdang.com/29828319.html; name:唐诗三百首全新增补版 补19位诗人55首经典2000条注释2万字诗人小...; author:（清）蘅塘退士 编选  若水古社 注; publisher:2025-01-01 江苏广陵书社; price:¥78.30
+rank:180; url:http://product.dangdang.com/29828606.html; name:宋词三百首全新增补版 补苏轼辛弃疾李清照等名篇45首 1559条注释...; author:（清）上��村民 选编  若水古社 注; publisher:2025-01-01 江苏广陵书社; price:¥78.30
+rank:181; url:http://product.dangdang.com/29828714.html; name:唐诗宋词三百首（全新增补版）全本全注 新增19位诗人55首经典及1...; author:蘅塘退士 上��村民 若水古社 注; publisher:2025-01-01 江苏广陵书社; price:¥156.60
+rank:182; url:http://product.dangdang.com/29796868.html; name:洪武之治――南征北伐与明初四大案; author:清风明月; publisher:2024-10-31 华文出版社; price:¥84.50
+rank:183; url:http://product.dangdang.com/29826339.html; name:考场高分作文七堂课（上、下册）; author:张亚凌 著  时代华语 出品; publisher:2024-12-01 江苏凤凰文艺出版社; price:¥60.50
+rank:184; url:http://product.dangdang.com/104336.html; name:西游记原著版（上、下册）（团购电话:400-1066666转6）; author:吴承恩; publisher:2010-10-01 人民文学出版社; price:¥47.20
+rank:185; url:http://product.dangdang.com/29797332.html; name:我也是鲁迅的遗物：朱安传[第三版]; author:乔丽华; publisher:2024-10-22 大连出版社; price:¥67.10
+rank:186; url:http://product.dangdang.com/29827712.html; name:朱生豪宋清如选唐宋名家词; author:朱生豪 宋清如 选    朱尚刚 夏春锦 整理; publisher:2024-12-17 大连出版社; price:¥84.30
+rank:187; url:http://product.dangdang.com/29694630.html; name:石头城 （铭刻历史记忆，还原真实历史下平凡人的抗争与尊严）; author:房伟 著 ， 新经典  出品; publisher:2024-02-01 北京十月文艺出版社; price:¥69.10
+rank:188; url:http://product.dangdang.com/29786060.html; name:洪荒漫记Ⅰ童谣村; author:廖亦晨; publisher:2024-09-20 文汇出版社; price:¥50.50
+rank:189; url:http://product.dangdang.com/11895321519.html; name:骆驼祥子 钢铁是怎样炼成的全套2册人民文学出版社老舍原著版无删...; author:老舍 尼・奥斯特洛夫斯基; publisher:2018-06-01 人民文学出版社; price:¥43.80
+rank:190; url:http://product.dangdang.com/11893830608.html; name:颂礼361问 当当自营抖音同款人情世故智慧之道中国式人脉经营掌握...; author:木梓; publisher: 东方出版社; price:¥42.80
+rank:191; url:http://product.dangdang.com/11896236739.html; name:传习录彩绘全注全译全解全彩珍藏版正版白话文精装彩绘全注全译全...; author:王阳明; publisher: 北京联合出版公司; price:¥2.51
+rank:192; url:http://product.dangdang.com/11896201979.html; name:小学学霸天天默写语文六年级上册人教部编版小学生6年级上默写小达...; author:牛胜玉; publisher: 辽宁教育出版社; price:¥2.62
+rank:193; url:http://product.dangdang.com/11886658928.html; name:段位漫画版让孩子读懂段位全4册给小学生的东方智慧书让孩子不惹事...; author:傲游猫童书; publisher:2024-11-01 陕西人民教育出版社; price:¥39.80
+rank:194; url:http://product.dangdang.com/29715798.html; name:一间只属于自己的房间（热播剧《我的阿勒泰》经典台词，女性主义...; author:[英]弗吉尼亚・伍尔夫，果麦文化 出品; publisher:2024-04-01 天津人民出版社; price:¥33.50
+rank:195; url:http://product.dangdang.com/11893357589.html; name:让孩子读懂段位漫画版 全套4册给孩子典籍中的东方思维精华附情景...; author:傲游猫童书; publisher:2024-11-01 上海交通大学出版社; price:¥39.90
+rank:196; url:http://product.dangdang.com/29815866.html; name:雪花飘落之前 （琼瑶）一代纯情小说巨匠琼瑶经典之作，六十年纪念...; author:琼瑶; publisher:2024-10-01 作家出版社; price:¥36.00
+rank:197; url:http://product.dangdang.com/29704444.html; name:共生式创业 : 良性共生的高端服务业创业新模式; author:吉登高   著   华夏智库   出品; publisher:2024-04-01 中国商业出版社; price:¥68.00
+rank:198; url:http://product.dangdang.com/29822240.html; name:星光来自从前; author:周健平 著; publisher:2025-01-01 敦煌文艺出版社; price:¥67.10
+rank:199; url:http://product.dangdang.com/29814282.html; name:再见爱人（豆瓣高分8.9的“情感综艺天花板”、现象级节目同名“爱...; author:《再见爱人》节目组; publisher:2024-12-01 湖南文艺出版社; price:¥56.80
+rank:200; url:http://product.dangdang.com/1210157325.html; name:三体全三册全集123全套共3册 三体全三册刘慈欣科幻小说全套作品 ...; author:刘慈欣; publisher:2008-01-01 重庆出版社; price:¥46.50
+rank:201; url:http://product.dangdang.com/29325113.html; name:病隙碎笔（光影纪念版，书内彩插作者亲摄照片12幅）史铁生充满灵...; author:史铁生 著,博集天卷 出品; publisher:2021-11-01 湖南文艺出版社; price:¥43.20
+rank:202; url:http://product.dangdang.com/29827652.html; name:灞桥折柳：中国古代行旅生活; author:王子今; publisher:2025-01-18 大连出版社; price:¥44.70
+rank:203; url:http://product.dangdang.com/29788001.html; name:第十三位陪审员【当当定制“命案线索”蝴蝶书签】法庭推理佳作; author:[英]史蒂夫・卡瓦纳 著，酷威文化 出品; publisher:2024-10-01 百花文艺出版社; price:¥41.30
+rank:204; url:http://product.dangdang.com/29725499.html; name:河清海晏 （  知乎24W高赞、15000+评论热议、200万读者含泪力荐！...; author:橘子不酸 著；嘉树文化 出品; publisher:2024-04-30 台海出版社; price:¥30.20
+rank:205; url:http://product.dangdang.com/29817541.html; name:我的故事（琼瑶）一代纯情小说巨匠琼瑶经典之作，六十年纪念版; author:琼瑶; publisher:2024-10-01 作家出版社; price:¥49.00
+rank:206; url:http://product.dangdang.com/11237680478.html; name:三年级下册快乐读书吧课外阅读书老师阅读 伊索寓言中国古代寓言故...; author:伊索; publisher:2020-01-01 哈尔滨工业大学出版社; price:¥36.90
+rank:207; url:http://product.dangdang.com/11921513751.html; name:2025年成语故事日历每日一个成语故事蛇年日历全彩新岁留珍诗词书...; author:无; publisher:2024-12-01 吉林音像出版社有限责任公司; price:¥13.80
+rank:208; url:http://product.dangdang.com/26483831.html; name:一起长大的玩具 二年级下册 语文教科书配套书目 人教版快乐读书吧...; author:曹文轩 陈先云 主编; publisher:2019-01-01 人民教育出版社; price:¥13.60
+rank:209; url:http://product.dangdang.com/26916248.html; name:克雷洛夫寓言 三年级下册 语文教科书配套书目 人教版快乐读书吧; author:曹文轩、陈先云 主编; publisher:2019-01-01 人民教育出版社; price:¥21.30
+rank:210; url:http://product.dangdang.com/29823828.html; name:替补：哈里王子自传（王子艰难逃离原生家庭，如何达成心灵和解？...; author:[英]哈里王子 译 李尧、陈鲁豫; publisher:2025-01-01 民主与建设出版社; price:¥69.80
+rank:211; url:http://product.dangdang.com/25283699.html; name:钢铁是怎样炼成的(《语文》推荐阅读丛书)人民文学出版社; author:（苏）尼・奥斯特洛夫斯基; publisher:2018-06-01 人民文学出版社; price:¥35.40
+rank:212; url:http://product.dangdang.com/11874717549.html; name:四大名著原著全套4册无删减版完整版精装版西游记三国演义水浒传红...; author:; publisher:2016-04-01 商务印书馆; price:¥98.00
+rank:213; url:http://product.dangdang.com/29504479.html; name:苏菲的世界（新版）八年级下册课外阅读乔斯坦贾德哲学入门书作家...; author:乔斯坦・贾德; publisher:2023-01-11 作家出版社; price:¥48.00
+rank:214; url:http://product.dangdang.com/29783565.html; name:中国文化常识1000问中华文明演进发展过程中国传统文化知识精华手...; author:开心文化研究中心编; publisher:2024-09-01 湖南教育出版社; price:¥39.80
+rank:215; url:http://product.dangdang.com/29803134.html; name:执戟勇赴者为俊杰――我的律师执业20年; author:孙俊杰, 著; publisher:2024-09-02 中国海洋大学出版社; price:¥78.00
+rank:216; url:http://product.dangdang.com/29747508.html; name:帛书老子（中华经典名著全本全注全译丛书-三全本）; author:张松辉 译注; publisher:2024-06-15 中华书局; price:¥45.00
+rank:217; url:http://product.dangdang.com/29662111.html; name:中华人民共和国民法典（实用版）【注释实用 文本规范 解读详致 附...; author:中国法制出版社; publisher:2023-12-01 中国法治出版社; price:¥19.50
+rank:218; url:http://product.dangdang.com/29760545.html; name:【时光学】作文金句800例 小学作文加分技巧素材积累大全小学版优...; author:时光学; publisher:2024-07-01 海豚出版社; price:¥22.80
+rank:219; url:http://product.dangdang.com/23699751.html; name:世界那么大，我想去看看; author:窝窝 著，文通天下 出品; publisher:2015-07-01 古吴轩出版社; price:¥31.00
+rank:220; url:http://product.dangdang.com/29385402.html; name:了凡四训（中华经典名著全本全注全译丛书-三全本）; author:张景，张松辉  译注; publisher:2022-03-12 中华书局; price:¥23.10
+rank:221; url:http://product.dangdang.com/29786184.html; name:真需求（商业女神梁宁图书作品/从有个想法，到真赚到钱，一本书全...; author:梁宁 著; 得到图书 出品; publisher:2024-10-21 新星出版社; price:¥59.00
+rank:222; url:http://product.dangdang.com/29242306.html; name:道德经（中华经典名著全本全注全译-三全本）; author:张景，张松辉  译注; publisher:2021-05-15 中华书局; price:¥28.80
+rank:223; url:http://product.dangdang.com/27866080.html; name:梁实秋：人间况味（老树画画全彩插画，梁实秋怀人纪事散文精装收...; author:梁实秋 著，文通天下 出品; publisher:2019-04-01 天津人民出版社; price:¥27.00
+rank:224; url:http://product.dangdang.com/11896930559.html; name:【正版】我的花园  凯文汉克斯著一座充满想象力的秘密花园《纽约...; author:不详; publisher: 不详; price:¥2.45
+rank:225; url:http://product.dangdang.com/29295452.html; name:我的阿勒泰（马伊�P、周依然、于适、蒋奇明主演的同名电视剧）新...; author:李娟; publisher:2021-08-04 花城出版社; price:¥27.00
+rank:226; url:http://product.dangdang.com/11893134758.html; name:句宝盆字字珠玑 说透人性 高情商沟通术 人生哲理精选金句集句宝盆...; author:范毅然; publisher:2024-11-01 成都地图出版社; price:¥8.50
+rank:227; url:http://product.dangdang.com/11721663258.html; name:漫画讲透黄帝内经漫画版当当自营抖音同款漫画版黄帝内经十二时辰...; author:张嘉铭，王婧; publisher:2024-02-01 化学工业出版社; price:¥39.80
+rank:228; url:http://product.dangdang.com/29832204.html; name:屁屁侦探全新2册（精装桥梁版9-10，含“屁屁侦探恋爱了？”+“招...; author:【日】Troll 文/图，宋三三 译; publisher:2024-12-30 三环出版社; price:¥70.00
+rank:229; url:http://product.dangdang.com/29629653.html; name:听风八百遍，才知是人间（史铁生、汪曾祺、梁实秋、丰子恺、沈从...; author:史铁生等; publisher:2023-10-01 华中科技大学出版社; price:¥42.90
+rank:230; url:http://product.dangdang.com/11890727059.html; name:反逃避心理学 当当自营同款克服回避型人格的心理自助手册直面内心...; author:徐小雨 著; publisher:2024-07-01 古吴轩出版社; price:¥29.80
+rank:231; url:http://product.dangdang.com/29761944.html; name:双面汉武帝:从文武之治到巫蛊之乱(不止军事、财政和外交 还有权力...; author:飘雪楼主; publisher:2024-08-01 中国民主法制出版社; price:¥60.00
+rank:232; url:http://product.dangdang.com/11893290339.html; name:慢驴效应漫画版 孩子不努力时给他讲讲慢驴的故事 帮助孩子强大内...; author:李博; publisher:2024-12-01 国书籍出版社; price:¥19.50
+rank:233; url:http://product.dangdang.com/11890723989.html; name:反逃避心理学 不畏惧不逃避直面内心恐惧抑制沮丧自卑自责反内耗焦...; author:徐小雨著; publisher:2024-07-01 古吴轩出版社; price:¥25.00
+rank:234; url:http://product.dangdang.com/29660762.html; name:世上为什么要有图书馆（译文纪实系列・陌生的中国）; author:杨素秋; publisher:2024-01-01 上海译文出版社; price:¥34.80
+rank:235; url:http://product.dangdang.com/11715239648.html; name:寒假经典阅读标准书目三年级全套5本古代寓言愚公移山吉林出版社伊...; author:（俄罗斯）克雷洛夫/著; publisher:2022-03-03 人民邮电出版社; price:¥129.54
+rank:236; url:http://product.dangdang.com/29794683.html; name:浪潮将至 入选比尔・盖茨2024年度书单！微软人工智能CEO前瞻科技...; author:穆斯塔法・苏莱曼 迈克尔・巴斯卡尔; publisher:2024-11-30 中信出版社; price:¥56.00
+rank:237; url:http://product.dangdang.com/23745256.html; name:庄子（中华经典名著全本全注全译丛书-三全本）; author:方勇　译注; publisher:2015-06-01 中华书局; price:¥43.20
+rank:238; url:http://product.dangdang.com/26445729.html; name:博弈论：最高级思维和生存策略; author:刘庆财 著; publisher:2018-10-01 北京联合出版公司; price:¥10.30
+rank:239; url:http://product.dangdang.com/11891457379.html; name:天局漫画小智者的智谋天局 全套2册天局漫画版安身篇+博弈篇善谋略...; author:翰图; publisher:2024-10-01 光明日报出版社; price:¥29.80
+rank:240; url:http://product.dangdang.com/29699898.html; name:心理学与生活（第20版，单色版）（2024，经典上新！20版，20年，...; author:【美】理查德?格里格 (Richard J. Gerrig)，新曲线出品，译者：王垒，朱滢，沈政等; publisher:2024-02-01 人民邮电出版社; price:¥161.30
+rank:241; url:http://product.dangdang.com/29813105.html; name:在星星的背面漫步 2025百班千人寒假书目名师推荐; author:姜二��/著、绘; publisher:2025-01-01 深圳出版社有限责任公司; price:¥27.00
+rank:242; url:http://product.dangdang.com/29812117.html; name:桦树鱼 2025百班千人寒假书目名师推荐; author:魏晓曦; publisher:2024-12-01 百花文艺出版社; price:¥25.00
+rank:243; url:http://product.dangdang.com/102771.html; name:红楼梦（上、下册，全两册，全本120回）（团购电话:400-1066666转...; author:曹雪芹; publisher:1982-03-01 人民文学出版社; price:¥59.00
+rank:244; url:http://product.dangdang.com/25230173.html; name:钢铁是怎样炼成的 八年级下 名著阅读课程化丛书 导读版 人民教育...; author:（苏）尼.奥斯特洛夫斯基 著，周露 译; publisher:2018-01-01 人民教育出版社; price:¥32.85
+rank:245; url:http://product.dangdang.com/1294107767.html; name:骆驼祥子人民教育出版社钢铁是怎样炼成的人教版原著无删减当当自...; author:老舍/奥斯特洛夫斯基; publisher:2024-11-01 人民教育出版社; price:¥49.80
+rank:246; url:http://product.dangdang.com/25267314.html; name:骆驼祥子 全本（《语文》推荐阅读丛书）七年级下册推荐阅读 人民...; author:老舍; publisher:2018-04-01 人民文学出版社; price:¥25.80
+rank:247; url:http://product.dangdang.com/11511133818.html; name:骆驼祥子钢铁是怎样炼成的 人民教育出版社原著无删减版当当自营人...; author:凡尔纳; publisher:2023-12-01 人民教育出版社; price:¥49.60
+rank:248; url:http://product.dangdang.com/23445578.html; name:马小跳玩数学 2年级    79000多名读者热评！; author:杨红樱; publisher:2014-02-01 吉林美术出版社; price:¥10.30
+rank:249; url:http://product.dangdang.com/29703282.html; name:马伯庸：食南之徒（24年长篇历史小说，豆瓣2024年度中国文学榜）; author:马伯庸 著,博集天卷 出品; publisher:2024-04-10 湖南文艺出版社; price:¥30.80
+rank:250; url:http://product.dangdang.com/29804938.html; name:人生解忧：佛学入门四十讲; author:成庆 著，理想国 出品; publisher:2024-11-01 上海三联书店; price:¥69.00
+rank:251; url:http://product.dangdang.com/29300831.html; name:小巴掌童话 彩图注音版 儿童文学 一二三年级课外阅读书世界经典文...; author:张秋生/著; publisher:2021-08-01 北京教育出版社; price:¥8.20
+rank:252; url:http://product.dangdang.com/29819360.html; name:往日情感（往日情感乃是走向未来的决定性力量，散文家贾梦玮丰子...; author:贾梦玮; publisher:2025-01-01 上海文艺出版社; price:¥78.00
+rank:253; url:http://product.dangdang.com/29362823.html; name:一个人的村庄（精装典藏版 刘亮程作品）感动8000万人，豆瓣万人8...; author:刘亮程; publisher:2022-01-01 译林出版社; price:¥62.60
+rank:254; url:http://product.dangdang.com/29791674.html; name:bibi动物园 好事发生 礼盒（含新漫画集 2025原创漫画日历 赠品  ...; author:bibi园长; publisher:2024-10-01 南海出版公司; price:¥118.50
+rank:255; url:http://product.dangdang.com/689417121.html; name:国家为什么会失败正版权利 繁荣和贫穷的根源; author:【美】德隆・阿西莫格鲁、【美】詹姆斯・A・罗宾逊; publisher:2015-09-01 湖南科技出版社; price:¥49.00
+rank:256; url:http://product.dangdang.com/11654265999.html; name:六年级下册快乐读书吧 全套4册原著无删减版尼尔斯骑鹅旅行记 汤姆...; author:笛福 马克吐温 刘易斯; publisher:2021-01-20 山东画报出版社; price:¥39.80
+rank:257; url:http://product.dangdang.com/29723904.html; name:半小时漫画中国地理3 江南篇（假如全中国是个班级，地理知识就很...; author:陈磊・半小时漫画团队；读客文化 出品; publisher:2024-05-01 浙江科学技术出版社; price:¥49.90
+rank:258; url:http://product.dangdang.com/11897870439.html; name:预测之书 当当自营同款罗振宇时间的朋友跨年演讲重磅力荐来自未来...; author:罗振宇; publisher:2025-01-01 新星出版社; price:¥79.00
+rank:259; url:http://product.dangdang.com/29403373.html; name:县乡中国：县域治理现代化; author:杨华; publisher:2022-04-12 中国人民大学出版社; price:¥62.10
+rank:260; url:http://product.dangdang.com/29707661.html; name:都柏林人 西方文学史上最有名的一场雪“整个爱尔兰都在下雪” 南...; author:[爱尔兰]詹姆斯・乔伊斯；读客文化 出品; publisher:2024-03-31 江苏凤凰文艺出版社; price:¥22.50
+rank:261; url:http://product.dangdang.com/29677919.html; name:躲在蚊子后面的大象（拯救讨好型人格，知名学者陈嘉映强烈推荐，...; author:[德]恩斯特弗里德・哈尼希，[德]爱娃・温德勒， 爱娃・温德勒 著，磨铁文化 出品; publisher:2024-02-01 台海出版社; price:¥29.90
+rank:262; url:http://product.dangdang.com/29827465.html; name:钱从哪里来6：叙事之年（著名金融学者香帅年度力作/从叙事中挖掘...; author:香帅 著 得到图书 出品; publisher:2025-01-01 新星出版社; price:¥59.00
+rank:263; url:http://product.dangdang.com/20605371.html; name:权威定本四大名著： 红楼梦 三国演义  水浒传  西游记 当当网专享...; author:（清）曹雪芹　等著；（清）无名氏　续; publisher:2008-07-01 人民文学出版社; price:¥189.20
+rank:264; url:http://product.dangdang.com/29707662.html; name:空腹的神奇自愈力（诺贝尔奖研究证实，空腹是打开身体自我修复及...; author:[日]船濑俊介 著，李萌 译，紫图图书 出品; publisher:2024-04-01 天津科学技术出版社; price:¥35.80
+rank:265; url:http://product.dangdang.com/29715147.html; name:自愈力饮食法：餐桌上的食物 中医养生大全食谱调理四季家庭营养健...; author:张彩山; publisher:2024-02-01 天津科学技术出版社; price:¥29.00
+rank:266; url:http://product.dangdang.com/11735505575.html; name:【保证正版 现货速发】国之脊梁--中国院士的科学人生百年【赠红船...; author:中国科学院学部“科学人生・百年”项目组; publisher:2022-08-01 浙江少年儿童出版社; price:¥36.80
+rank:267; url:http://product.dangdang.com/29140558.html; name:血色莫扎特（一部中国版的“白夜行” 我们察觉了悲剧的真相，却依...; author:房伟  著 ， 新经典  出品; publisher:2020-10-01 北京十月文艺出版社; price:¥49.80
+rank:268; url:http://product.dangdang.com/29697452.html; name:学生汉字形近易混字通解; author:赵学清、付露、黄爽; publisher:2024-03-01 商务印书馆; price:¥44.30
+rank:269; url:http://product.dangdang.com/29812582.html; name:天机：九十九句处事箴言 成人社科收官之作普通人的成功秘籍; author:; publisher:2024-08-01 台海出版社; price:¥39.50
+rank:270; url:http://product.dangdang.com/29820750.html; name:漫画中华文化1000问; author:甘超; publisher:2024-12-02 三环出版社; price:¥25.80
+rank:271; url:http://product.dangdang.com/28492990.html; name:资治通鉴（精装全本全译全18册・传世经典 文白对照）2024年语文高...; author:司马光 著，沈志华，张宏儒  主编; publisher:2019-12-07 中华书局; price:¥891.60
+rank:272; url:http://product.dangdang.com/28470463.html; name:乖，摸摸头2.0（大冰作品！升级版乖，摸摸头2.0！热销500万册！）...; author:大冰 著，磨铁文化 出品; publisher:2019-10-01 北京联合出版有限公司; price:¥29.80
+rank:273; url:http://product.dangdang.com/29816879.html; name:哈利波特学院珍藏刷边版收官6+7（格兰芬多 完整复制英国版工艺，...; author:（英）J.K.罗琳 著； 马爱农，马爱新 译; publisher:2024-11-01 人民文学出版社; price:¥266.00
+rank:274; url:http://product.dangdang.com/29629604.html; name:杭州鲁迅先生（茅盾文学新人奖、汪曾祺文学奖得主、《王小波传》...; author:房伟; publisher:2023-09-01 译林出版社; price:¥68.00
+rank:275; url:http://product.dangdang.com/11884206079.html; name:中国人的规矩 当当自营同款升级版刘一达著学会中国人的规矩用高情...; author:刘一达; publisher:2024-10-01 东方出版社; price:¥20.00
+rank:276; url:http://product.dangdang.com/105272.html; name:水浒传（上下册，全两册，中国古典文学读本丛书）（团购电话:400...; author:（明）施耐庵 ,罗贯中 著; publisher:2004-09-01 人民文学出版社; price:¥48.60
+rank:277; url:http://product.dangdang.com/29771456.html; name:【飞机盒发货】这里是中国3（当当专享月历卡版）典藏级国民地理书...; author:星球研究所; publisher:2024-09-01 中信出版社; price:¥149.00
+rank:278; url:http://product.dangdang.com/11840622909.html; name:道德经讲义+乐育堂语录（共两册）黄元吉语录黄元吉著作注释道教周...; author:无; publisher: 九州出版社; price:¥2.94
+rank:279; url:http://product.dangdang.com/29829915.html; name:博物馆里的中国; author:北崖; publisher:2025-01-01 中国经济出版社; price:¥39.00
+rank:280; url:http://product.dangdang.com/23175595.html; name:最爱吃的家常菜; author:张恕玉，王作生; publisher:2013-01-01 青岛出版社; price:¥11.20
+rank:281; url:http://product.dangdang.com/29786446.html; name:小城与不确定性的墙 村上春树新书 时隔六年全新长篇小说 著名译者...; author:[日]村上春树 著；施小炜 译；读客文化 出品; publisher:2024-10-20 江苏凤凰文艺出版社; price:¥49.90
+rank:282; url:http://product.dangdang.com/11897872679.html; name:纵横思维 漫画少年学纵横思维漫画版儿童培养谋略与雄辩有主见胆识...; author:狐说新语; publisher:2024-12-01 三环出版社; price:¥25.81
+rank:283; url:http://product.dangdang.com/11724118507.html; name:食南之徒【新华书店正版包邮】 马伯庸新书2024全新力作长安的荔枝...; author:马伯庸; publisher:2024-04-01 湖南文艺出版社; price:¥27.80
+rank:284; url:http://product.dangdang.com/1131922398.html; name:骆驼祥子人民教育出版社钢铁是怎样炼成的人教版当当自营老舍文学...; author:老舍; publisher:2024-01-01 人民教育出版社; price:¥49.60
+rank:285; url:http://product.dangdang.com/29827039.html; name:没有名字的人（走暗路，耕瘦田，过窄门。这是普通人的一生。网易...; author:网易人间 主编  时代华语 出品; publisher:2024-12-01 中国友谊出版公司; price:¥29.00
+rank:286; url:http://product.dangdang.com/11875424029.html; name:天机 陈旭著正版书籍九十九句处事箴言 2024成人社科收官之作普通...; author:陈旭; publisher:2024-10-01 台海出版社; price:¥39.80
+rank:287; url:http://product.dangdang.com/29817960.html; name:胖东来 爆火的朴素逻辑; author:木刀  著    汇智博达   出品; publisher:2025-01-01 台海出版社; price:¥40.80
+rank:288; url:http://product.dangdang.com/11892936139.html; name:经方合方辩治疑难杂病 王付经方合方辨治疑难杂症传统智慧结合现代...; author:王付; publisher:2024-12-01 河南科学技术出版社; price:¥22.60
+rank:289; url:http://product.dangdang.com/29818751.html; name:我把世界装进背包（当当亲签透卡版，2025背包出发，图说世界，治...; author:小鹏; publisher:2025-01-01 北京科学技术出版社; price:¥83.20
+rank:290; url:http://product.dangdang.com/29801136.html; name:白夜梦想家; author:诺亚; publisher:2024-10-01 湖南少年儿童出版社; price:¥33.30
+rank:291; url:http://product.dangdang.com/29801135.html; name:十二生肖经典童话故事（精装彩绘注音版，全3册，12个颠覆想象的故...; author:王家珍/著，王家珠/绘; publisher:2024-10-01 湖南少年儿童出版社; price:¥139.10
+rank:292; url:http://product.dangdang.com/11886109198.html; name:漫画经济学写给孩子的漫画经济学 孩子都喜欢的趣味财商手册 培养...; author:郝文龙; publisher: 山东科学技术出版社; price:¥19.90
+rank:293; url:http://product.dangdang.com/29813044.html; name:罗马之变（法语直译，再现罗马共和国走向罗马帝国的辉煌历史，《...; author:（法）杰罗姆・卡尔寇比诺 著，赵丽莎 刘婵 周芳 译; publisher:2024-11-01 新世界出版社; price:¥84.30
+rank:294; url:http://product.dangdang.com/29811669.html; name:幸存的女孩; author:【伊拉克】娜迪亚・穆拉德; publisher:2024-12-01 重庆出版社; price:¥57.40
+rank:295; url:http://product.dangdang.com/29801312.html; name:文化馆概论; author:李国新,张广钦,王全吉,李秀敏 编著; publisher:2024-10-01 北京大学出版社; price:¥43.50
+rank:296; url:http://product.dangdang.com/29471209.html; name:杀死一只知更鸟（豆瓣9.3，关于勇气与正义的成长教科书，影响全球...; author:哈珀・李 著 李育超 译; publisher:2022-11-01 译林出版社; price:¥53.40
+rank:297; url:http://product.dangdang.com/29778361.html; name:小狗疑心大宇宙阴谋篡夺它的位置（泰戈尔童心诗选，我们这一生注...; author:[印]泰戈尔 著；郑振铎 白开元 译注；红花HONGHUA 绘; publisher:2024-09-01 江苏凤凰文艺出版社; price:¥29.90
+rank:298; url:http://product.dangdang.com/25479247.html; name:窄门（诺贝尔文学奖经典 读完《窄门》便读懂了纪德的一生 法文直...; author:[法] 安德烈・纪德，译者 顾琪静，果麦文化 出品; publisher:2018-10-01 天津人民出版社; price:¥37.80
+rank:299; url:http://product.dangdang.com/22790546.html; name:中国最美的100个地方 图说天下 国家地理; author:《图书天下・国家地理系列》编委会; publisher:2012-06-01 北京联合出版公司; price:¥14.80
+rank:300; url:http://product.dangdang.com/29795931.html; name:时刻人文・中国文学史（国际著名学者张隆溪最新力作，中国文学名...; author:张隆溪; publisher:2024-10-16 东方出版中心; price:¥113.30
+rank:301; url:http://product.dangdang.com/29750861.html; name:帛书道德经 精装全集定制版 送小册子 正版图书 老子道德经全书原...; author:[春秋] 老子 著; publisher:2024-07-01 甘肃文化出版社; price:¥29.80
+rank:302; url:http://product.dangdang.com/23778791.html; name:少年读史记（套装全5册）; author:张嘉骅; publisher:2015-09-01 青岛出版社; price:¥82.00
+rank:303; url:http://product.dangdang.com/11604458537.html; name:【新华正版现货】8八年级下册下学期英语课本教科书学生用书 人教...; author:无; publisher: 人民教育出版社; price:¥14.71
+rank:304; url:http://product.dangdang.com/25309929.html; name:狼王梦（升级版）/动物小说大王沈石溪・品藏书系; author:沈石溪; publisher:2018-07-01 浙江少年儿童出版社; price:¥24.70
+rank:305; url:http://product.dangdang.com/29812965.html; name:汗青堂丛书147・光明时代：中世纪新史; author:[美]马修・加布里埃莱 后浪; publisher:2024-11-01 九州出版社; price:¥73.00
+rank:306; url:http://product.dangdang.com/26509546.html; name:金刚经・心经(佛教十三经)新版; author:赖永海 主编，陈秋平 译注; publisher:2019-02-08 中华书局; price:¥11.80
+rank:307; url:http://product.dangdang.com/29788634.html; name:血与蜜之地穿越巴尔干的旅程（刘子超新作，巴尔干旅行文学，李健...; author:刘子超; publisher:2024-10-01 文汇出版社; price:¥49.00
+rank:308; url:http://product.dangdang.com/11406992398.html; name:曾国藩家书 冰鉴 挺经 全集精装珍藏版3册原文注释译文白话文曾国...; author:曾国藩; publisher:2015-06-01 江苏凤凰美术出版社; price:¥69.80
+rank:309; url:http://product.dangdang.com/25126136.html; name:骆驼祥子（语文教材”名著导读“经典・七年级下。疑难字词、北京...; author:老舍 著; publisher:2017-08-01 浙江工商大学出版社; price:¥17.60
+rank:310; url:http://product.dangdang.com/28473192.html; name:你当像鸟飞往你的山（中文版销量超200万册，比尔・盖茨年度特别推...; author:塔拉 ・ 韦斯特弗  著 ， 新经典  出品; publisher:2019-11-01 南海出版公司; price:¥34.80
+rank:311; url:http://product.dangdang.com/29423530.html; name:快捷作业本 田格本36开单本护眼环保厚纸作业本中小学开学买书凑单...; author:辑者; publisher:2021-10-01 中国电力出版社; price:¥1.60
+rank:312; url:http://product.dangdang.com/25205960.html; name:命运：文在寅自传（韩国总统中文版官方授权）; author:文在寅 著，凤凰联动 出品; publisher:2018-01-01 江苏凤凰文艺出版社; price:¥51.40
+rank:313; url:http://product.dangdang.com/11897379169.html; name:我与地坛 史铁生 人民文学出版社完整版正版纪念完整版无删减我与...; author:史铁生; publisher:2018-03-01 人民文学出版社; price:¥22.00
+rank:314; url:http://product.dangdang.com/23276506.html; name:四大名著套装 西游记 红楼梦 三国演义 水浒传 五年级下册快乐读书...; author:吴承恩，施耐庵，曹雪芹，罗贯中，; publisher:2012-07-01 时代文艺出版社; price:¥29.60
+rank:315; url:http://product.dangdang.com/29820671.html; name:南都（修订版）旧地故人的前世今生，深宅残垣中的温热余情。读过...; author:贾梦玮; publisher:2024-12-01 江苏译林出版社; price:¥58.00
+rank:316; url:http://product.dangdang.com/11168163889.html; name:了凡四训 精装白话文详解版正版原著无删减袁了凡讲记净空法师当当...; author:袁了凡; publisher:2020-06-09 中国华侨出版社; price:¥13.00
+rank:317; url:http://product.dangdang.com/29790425.html; name:意林少年版合订本2024年17-20（总第124卷）; author:意林少年版编辑部; publisher:2024-10-01 意林杂志出版社; price:¥30.80
+rank:318; url:http://product.dangdang.com/29368832.html; name:华杉讲透孙子兵法（《狂飙》高启强的人生之书！这回终于读懂孙子...; author:华杉；读客文化 出品; publisher:2015-06-01 江苏文艺出版社; price:¥69.80
+rank:319; url:http://product.dangdang.com/29386324.html; name:撒哈拉的故事（豆瓣超42万读者9.2分推荐，传奇作家三毛代表作，2...; author:三毛  著 ， 新经典  出品; publisher:2022-04-01 南海出版公司; price:¥33.80
+rank:320; url:http://product.dangdang.com/11791513622.html; name:红墙图志 毛泽东 当当自营正版上下册【现货】; author:中国大陆; publisher:2024-08-06 世界图书出版社; price:¥58.90
+rank:321; url:http://product.dangdang.com/11824286459.html; name:天下无局 战国策里的实用智慧成大事者英雄当识纵横之术一部古代系...; author:文斐; publisher:2024-08-01 哈尔滨工业大学出版社; price:¥24.90
+rank:322; url:http://product.dangdang.com/29558339.html; name:基层女性生存指北 基层女性作者新作 随书附赠作者原创手绘作品; author:王慧玲 著，磨铁文化 出品; publisher:2023-03-01 台海出版社; price:¥34.80
+rank:323; url:http://product.dangdang.com/29291249.html; name:没头脑和不高兴（注音版）; author:任溶溶; publisher:2021-08-01 浙江少年儿童出版社; price:¥13.80
+rank:324; url:http://product.dangdang.com/29788525.html; name:大学问・凡人琐事：我的回忆（章开沅先生亲笔回忆录。是个人史，...; author:章开沅 著，大学问出品; publisher:2024-10-01 广西师范大学出版社; price:¥151.70
+rank:325; url:http://product.dangdang.com/29371424.html; name:周易（中华经典名著全本全注全译丛书-三全本）; author:杨天才  译注; publisher:2022-02-19 中华书局; price:¥47.10
+rank:326; url:http://product.dangdang.com/29819440.html; name:百年孤独（同名电视剧热播，诺奖得主马尔克斯代表作，魔幻现实主...; author:（哥伦）加夫列尔・加西亚・马尔克斯 著; publisher:2024-11-01 南海出版公司; price:¥49.00
+rank:327; url:http://product.dangdang.com/29117053.html; name:小巴掌童话中小学生阅读指导书系小学; author:张秋生 著，王林 主编; publisher:2020-07-01 人民教育出版社; price:¥24.90
+rank:328; url:http://product.dangdang.com/29489000.html; name:大医套装：日出篇+破晓篇; author:马伯庸 著,博集天卷 出品; publisher:2022-11-30 上海文艺出版社; price:¥194.40
+rank:329; url:http://product.dangdang.com/24144413.html; name:佛教十三经（套装全12册）新版; author:赖永海 主编; publisher:2016-08-01 中华书局; price:¥238.00
+rank:330; url:http://product.dangdang.com/29343835.html; name:生死疲劳 不看不知道，莫言真幽默！全新版本！余华推荐！; author:莫言；读客文化 出品; publisher:2022-01-01 浙江文艺出版社; price:¥45.40
+rank:331; url:http://product.dangdang.com/29833846.html; name:东坡志林（中华经典名著全本全注全译-三全本）; author:罗宁 译注; publisher:2024-12-06 中华书局; price:¥56.00
+rank:332; url:http://product.dangdang.com/1468322885.html; name:钢铁是怎样炼成的 人民教育出版社人教版完整版八年级下册初中二年...; author:(苏)尼古拉・奥斯特洛夫斯基; publisher:2018-03-01 人民教育出版社; price:¥21.40
+rank:333; url:http://product.dangdang.com/29701655.html; name:薛定谔的猫：一切都是思考层次的问题; author:何圣君 著，文通天下 出品; publisher:2024-04-01 光明日报出版社; price:¥29.90
+rank:334; url:http://product.dangdang.com/29832469.html; name:奶龙知识漫画：勇闯恐龙世界.历险三叠纪（当当专供：冰箱贴+闪卡...; author:奶龙 著，磨铁文化 出品; publisher:2024-12-31 北京联合出版有限公司; price:¥39.80
+rank:335; url:http://product.dangdang.com/29829624.html; name:今天的快乐是什么给的（当当专享签绘版！野生漫画家黑珍珠大食怪...; author:黑珍珠大食怪 著绘  时代华语 出品; publisher:2024-12-01 江苏凤凰文艺出版社; price:¥29.90
+rank:336; url:http://product.dangdang.com/29365616.html; name:菜根谭（中华经典名著全本全注全译丛书-三全本）; author:孙林  译注; publisher:2022-02-19 中华书局; price:¥36.00
+rank:337; url:http://product.dangdang.com/29705399.html; name:北魏时代的名号变迁与政权转型（国家社科基金后期资助项目）; author:郭硕; publisher:2024-03-01 中华书局; price:¥128.00
+rank:338; url:http://product.dangdang.com/29137005.html; name:潜规则：中国历史中的真实游戏（修订版）; author:吴思; publisher:2020-05-01 复旦大学出版社; price:¥37.70
+rank:339; url:http://product.dangdang.com/29657661.html; name:大中华寻宝记系列 30 山西寻宝记; author:京鼎动漫; publisher:2023-12-01 二十一世纪出版社; price:¥26.00
+rank:340; url:http://product.dangdang.com/29551889.html; name:稻草人书三年级课外阅读 小学语文快乐读书吧三3年级上册拓展课程...; author:叶圣陶; publisher:2019-07-01 浙江教育出版社; price:¥10.20
+rank:341; url:http://product.dangdang.com/29752761.html; name:长短经（中华经典名著全本全注全译丛书-三全本  全2册）; author:刘子立 译注; publisher:2024-07-26 中华书局; price:¥128.00
+rank:342; url:http://product.dangdang.com/29703264.html; name:智囊全集（中华经典名著全本全注全译丛书-三全本  全3册）; author:冯梦龙 著；何汉杰 译注; publisher:2024-03-15 中华书局; price:¥178.00
+rank:343; url:http://product.dangdang.com/11942425857.html; name:【首刷特签版】伊藤润二的漫画术 恐怖诞生的地方【精美赠品 经典...; author:(日)伊藤润二; publisher:2024-10-01 中国友谊出版公司; price:¥53.60
+rank:344; url:http://product.dangdang.com/29819864.html; name:活过（蔡澜自传，看蔡澜活成人间清醒的人生智慧 ）; author:蔡澜 著,博集天卷 出品; publisher:2025-01-01 湖南文艺出版社; price:¥35.80
+rank:345; url:http://product.dangdang.com/27848509.html; name:《四圣心源》读书笔记; author:王金城; publisher:2019-03-01 北京科学技术出版社; price:¥59.00
+rank:346; url:http://product.dangdang.com/29817134.html; name:100年，接了个龙; author:程小青 等/著 华斯比/编; publisher:2025-01-01 北京联合出版有限公司; price:¥39.80
+rank:347; url:http://product.dangdang.com/29132118.html; name:猜猜我有多爱你（3-8岁）信谊世界精选图画书; author:[英] 山姆・麦克布雷尼 著，[英] 安妮塔・婕朗 绘，梅子涵 译; publisher:2020-09-01 明天出版社; price:¥43.80
+rank:348; url:http://product.dangdang.com/29824632.html; name:希腊别传（回到哲学的故乡，重温古希腊文明的盛衰，哲学家陈嘉映...; author:陈嘉映 著，铸刻 出品; publisher:2025-01-01 广西师范大学出版社; price:¥34.70
+rank:349; url:http://product.dangdang.com/29813219.html; name:经典常谈 八年级下册课外阅读（中小学生课外阅读指导丛书）无障碍...; author:朱自清; publisher:2024-11-01 南方出版社; price:¥17.90
+rank:350; url:http://product.dangdang.com/29825132.html; name:蜂群城市（李兴钢、吴岩、陈楸帆、董刚、张昕楠联袂推荐，何宛余...; author:王宽; publisher:2024-12-01 文化艺术出版社; price:¥55.70
+rank:351; url:http://product.dangdang.com/27916997.html; name:楚辞（中华经典名著全本全注全译丛书-三全本）新版; author:林家骊 注释; publisher:2019-08-03 中华书局; price:¥31.70
+rank:352; url:http://product.dangdang.com/25207301.html; name:活出生命的意义; author:（美）弗兰克尔　著，吕娜　译; publisher:2018-01-01 华夏出版社; price:¥21.60
+rank:353; url:http://product.dangdang.com/29786039.html; name:十日终焉4乐园; author:杀虫队队员，风炫文化 出品; publisher:2024-09-30 江苏凤凰文艺出版社; price:¥31.50
+rank:354; url:http://product.dangdang.com/11227111838.html; name:领券立减100元 知行合一王阳明心学全集4册王阳明传传习录 国学经...; author:思履; publisher:2020-07-01 团结出版社; price:¥128.90
+rank:355; url:http://product.dangdang.com/27932640.html; name:这里是中国 2019年度中国好书 文津图书奖获奖作品 18个关于中国的...; author:星球研究所，中国青藏高原研究会; publisher:2019-09-01 中信出版社; price:¥109.00
+rank:356; url:http://product.dangdang.com/11838653233.html; name:【正版】 绿色食品 武威市高寒二阴山区蔬菜生产技术规程    甘肃...; author:; publisher:2010-01-01 甘肃科学技术出版社; price:¥3.55
+rank:357; url:http://product.dangdang.com/28525842.html; name:唐诗三百首（马未都推荐版《唐诗三百首》！全新未删节精装插图珍...; author:[清] 蘅塘退士 编，作家榜经典名著 出品，谢有顺 评注，大星文化; publisher:2020-04-10 中信出版社; price:¥59.00
+rank:358; url:http://product.dangdang.com/29815842.html; name:冰雪奇缘创意美术宝盒：12节AI创作课+12美学赏析课+2赛事指导课+...; author:童趣出版有限公司 编; publisher:2024-10-01 人民邮电出版社; price:¥299.00
+rank:359; url:http://product.dangdang.com/11895662219.html; name:三年级下册快乐读书吧人民教育出版社同似人教版中国古代寓言伊索...; author:李冰 等; publisher:2024-08-01 花山文艺出版社; price:¥32.60
+rank:360; url:http://product.dangdang.com/11895658029.html; name:读读童谣和儿歌一年级下册快乐读书吧多彩的童年奇妙的大自然中国...; author:; publisher:2024-08-01 山东文艺出版社; price:¥19.60
+rank:361; url:http://product.dangdang.com/11895664069.html; name:四年级下册快乐读书吧人民出版社当当自营同款曹文轩全4册4年级下...; author:高士奇 等; publisher:2024-08-01 花山文艺出版社; price:¥32.60
+rank:362; url:http://product.dangdang.com/11873602948.html; name:高手接话讲话就得有方法当当正版书籍 回话妙招显技巧 真诚话语得...; author:小奖励; publisher: 群言出版社; price:¥29.80
+rank:363; url:http://product.dangdang.com/28540154.html; name:快乐读书吧四年级下册-米・伊林十万个为什么; author:冯影; publisher:2020-01-01 浙江教育出版社; price:¥5.50
+rank:364; url:http://product.dangdang.com/29576977.html; name:太白金星有点烦（马伯庸历史短小说“见微”系列口碑新作）; author:马伯庸 著,博集天卷 出品; publisher:2023-06-01 湖南文艺出版社; price:¥29.00
+rank:365; url:http://product.dangdang.com/29214699.html; name:英语核心单词3000个（口袋本）; author:庞洪斌 编; publisher:2021-01-06 商务印书馆国际有限公司; price:¥7.60
+rank:366; url:http://product.dangdang.com/11898319109.html; name:变量7：为了不下牌桌的创新何帆得到跨年新书 得到APP热门课程主理...; author:何帆; publisher:2024-12-01 新星出版社; price:¥59.00
+rank:367; url:http://product.dangdang.com/11898319559.html; name:钱从哪里来6：叙事之年香帅185万人追随金融学者 全新力作得到跨年...; author:香帅 著 得到图书 出品; publisher:2025-01-01 新星出版社; price:¥59.00
+rank:368; url:http://product.dangdang.com/27916826.html; name:诗经动物笔记（套装2册）; author:张晓失 著; publisher:2019-08-01 化学工业出版社; price:¥99.80
+rank:369; url:http://product.dangdang.com/11868375964.html; name:石油美元三部曲套装（石油央行+石油英镑+石油美元）中东石油、美...; author:于杰 等; publisher:2024-12-03 中信出版集团股份有限公司; price:¥154.10
+rank:370; url:http://product.dangdang.com/11894931399.html; name:中医入门 一看就懂秦伯未同款现代老中医名著重刊丛书第二辑一看就...; author:秦伯未; publisher:2021-10-01 中国医药科技出版社; price:¥29.60
+rank:371; url:http://product.dangdang.com/29702349.html; name:名著格列佛游记; author:廉东星; publisher:2018-01-06 世界图书出版公司; price:¥10.80
+rank:372; url:http://product.dangdang.com/29638444.html; name:如果历史是一群喵13・大明皇朝篇; author:肥志编绘，漫友文化出品; publisher:2023-11-20 广东旅游出版社; price:¥26.80
+rank:373; url:http://product.dangdang.com/11896430689.html; name:主角 一战成名广告鬼才金枪大叔狂野力作 新书 当主角拿大头让自己...; author:金枪大叔 著,博集天卷 出品; publisher:2024-11-01 湖南文艺出版社; price:¥69.00
+rank:374; url:http://product.dangdang.com/11896545949.html; name:基层管理秘籍 张晨著全面揭开领导力的秘密祝你打造卓越团队让管理...; author:张晨; publisher:2024-12-01 中华工商联合出版社; price:¥19.90
+rank:375; url:http://product.dangdang.com/11888636268.html; name:高效沟通 如何让沟通精准有效; author:王鹏; publisher:2018-12-01 四川文艺出版社; price:¥39.80
+rank:376; url:http://product.dangdang.com/29819893.html; name:读库2406; author:张立宪主编; publisher:2024-11-01 新星出版社; price:¥40.30
+rank:377; url:http://product.dangdang.com/29467530.html; name:十万个为什么（第六版修订版 赠全书音频）中小学科普百科11~14岁...; author:韩启德主编; publisher:2022-09-01 少年儿童出版社; price:¥627.20
+rank:378; url:http://product.dangdang.com/29699795.html; name:阳谋：越是正大光明，越是所向披靡 看帝王将相之谋略 懂安身立命...; author:秦尘，赵梓伊 著，文通天下 出品; publisher:2024-02-01 光明日报出版社; price:¥29.80
+rank:379; url:http://product.dangdang.com/11895347739.html; name:经典常谈 钢铁是怎样炼成的全套2册人民文学出版社原著版无删减完...; author:; publisher:2018-06-01 人民文学出版社; price:¥39.80
+rank:380; url:http://product.dangdang.com/11895323689.html; name:儒林外史 简爱全套2册人民文学出版社原著版无删减完整版当当自营...; author:吴敬梓 夏洛蒂・勃朗特; publisher:2018-06-01 人民文学出版社; price:¥68.00
+rank:381; url:http://product.dangdang.com/11895339809.html; name:儒林外史 简爱全套2册人民教育出版社原著版无删减完整版当当自营...; author:; publisher:2018-12-01 人民教育出版社; price:¥74.00
+rank:382; url:http://product.dangdang.com/11895345139.html; name:钢铁是怎样炼成的 经典常谈全套2册人民教育出版社原著版无删减完...; author:; publisher:2018-01-01 人民教育出版社; price:¥54.00
+rank:383; url:http://product.dangdang.com/29822088.html; name:中华饮食文化概述（高等学校通识教育教材）; author:胡付照，徐兴海; publisher:2024-12-01 中国轻工业出版社; price:¥33.00
+rank:384; url:http://product.dangdang.com/11885216569.html; name:漫画中华文化1000问 漫画儿童版正版中国文学常识古代传统一千问书...; author:甘超; publisher:2024-11-01 三环出版社; price:¥25.80
+rank:385; url:http://product.dangdang.com/11894864409.html; name:漫画小学生文学常识必背百科常识 人教版中国古代现代文学文化常识...; author:谷雨 编著; publisher:2024-05-01 北方妇女儿童出版社; price:¥18.00
+rank:386; url:http://product.dangdang.com/11881247640.html; name:笨狼的故事什么是比萨浙江少年儿童出版社; author:汤素兰; publisher: 浙江少年儿童出版社; price:¥39.37
+rank:387; url:http://product.dangdang.com/11931837391.html; name:浙江大学333教育综合考研教材教育学王道俊中国教育史孙培青外国教...; author:无; publisher: 中国石化出版社; price:¥347.01
+rank:388; url:http://product.dangdang.com/11894344199.html; name:暗处的女儿 埃莱娜费兰特作品系列那不勒斯四部曲作者页边与听写我...; author:(意)埃莱娜?费兰特 著 陈英,王彦丁,黄语瞳 译; publisher:2024-03-01 人民文学出版社; price:¥22.00
+rank:389; url:http://product.dangdang.com/29256100.html; name:文学的通见; author:谢有顺 著; publisher:2020-11-25 海峡文艺出版社; price:¥68.00
+rank:390; url:http://product.dangdang.com/29820720.html; name:我自乡野来; author:刘诚龙 著，华景时代 出品; publisher:2024-12-01 北京联合出版有限公司; price:¥58.50
+rank:391; url:http://product.dangdang.com/11894313029.html; name:句宝盆 小句子里的大道理正版全集抖音同款句子迷名言佳句字字珠玑...; author:范毅然; publisher:2024-12-01 成都地图出版社; price:¥8.80
+rank:392; url:http://product.dangdang.com/11907609637.html; name:工业品销售十堂课; author:郑锋; publisher:2024-11-01 机械工业出版社; price:¥38.40
+rank:393; url:http://product.dangdang.com/11892563649.html; name:写给孩子的漫画经济学 钱从哪里来孩子都喜欢的趣味财商手册培养财...; author:郝文龙; publisher:2024-12-01 山东科学技术出版社; price:¥19.90
+rank:394; url:http://product.dangdang.com/29783377.html; name:汉末晋初之际政治研究; author:柳春新; publisher:2024-09-01 山西人民出版社发行部; price:¥101.50
+rank:395; url:http://product.dangdang.com/29757447.html; name:新概念英语青少智慧版1A学习组合 学生用书+练习册共2册（附要点概...; author:路易・亚历山大（L. G. Alexander），朱莉娅・亚历山大（Julia Alexander）, 罗伊・金斯伯里（Roy Kingsbury）; publisher:2024-04-01 外语教学与研究出版社; price:¥56.20
+rank:396; url:http://product.dangdang.com/23561350.html; name:钱氏家训新解; author:牛晓彦　编著，读品 出品; publisher:2014-08-01 北京理工大学出版社; price:¥22.80
+rank:397; url:http://product.dangdang.com/11934917071.html; name:2025创新设计高考总复习 地理湘教版新教材新高考 高二高三一轮高...; author:无; publisher: 陕西人民出版社; price:¥196.76
+rank:398; url:http://product.dangdang.com/11878189680.html; name:轻松学中文7课本+练习+教师用书(附音频共2本)Easy Steps to Chin...; author:无; publisher: 北京语言大学出版社; price:¥268.97
+rank:399; url:http://product.dangdang.com/29792541.html; name:出版禁止【当当定制警戒线贴纸】长江俊和叙诡推理力作！; author:［日］长江俊和 著，酷威文化 出品; publisher:2024-10-01 北京日报出版社; price:¥38.70
+rank:400; url:http://product.dangdang.com/27859639.html; name:豺狼的日子 奥斯卡影帝小雀斑主演同名英剧原著 根据真实历史事件...; author:[英]弗・福赛斯; publisher:2019-05-01 上海文艺出版社; price:¥26.00
+rank:401; url:http://product.dangdang.com/29470275.html; name:长安的荔枝; author:马伯庸 著,博集天卷 出品; publisher:2022-10-31 湖南文艺出版社; price:¥29.00
+rank:402; url:http://product.dangdang.com/28968111.html; name:希区柯克悬疑故事; author:[英]，希区柯克，林中路 著; publisher:2020-06-01 中国华侨出版社; price:¥21.60
+rank:403; url:http://product.dangdang.com/29200934.html; name:费曼学习法（用输出倒逼输入）; author:尹红心 李伟 著 时代华语 出品; publisher:2021-03-01 江苏凤凰文艺出版社; price:¥27.00
+rank:404; url:http://product.dangdang.com/24026212.html; name:史记（精装全6册 附年表）; author:[汉] 司马迁 著，李翰文 编; publisher:2016-08-01 北京联合出版公司; price:¥144.10
+rank:405; url:http://product.dangdang.com/29691305.html; name:正念的奇迹：获得身心的安详和悦乐; author:一行禅师; publisher:2024-01-01 河南文艺出版社; price:¥27.30
